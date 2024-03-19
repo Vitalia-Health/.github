@@ -1,10 +1,10 @@
-# Vitalia Health
+# Vivencia Health
 
-Welcome to the official GitHub repository of Vitalia Health, a transformative health integration startup committed to standardizing quality health services across independently owned health institutions. By partnering with Vitalia Health, hospitals retain their unique branding while aligning with our promise of excellence in healthcare services, akin to the consistent quality expected from global hotel chains like Radisson.
+Welcome to the official GitHub repository of Vivencia Health, a transformative health integration startup committed to standardizing quality health services across independently owned health institutions. By partnering with Vivencia Health, hospitals retain their unique branding while aligning with our promise of excellence in healthcare services, akin to the consistent quality expected from global hotel chains like Radisson.
 
 ## Our Mission
 
-At Vitalia Health, we aim to democratize healthcare by offering a unified standard of care and innovative digital solutions to health institutions. Our mission is to ensure that patients receive consistent and high-quality care at any Vitalia Health-linked hospital.
+At Vivencia Health, we aim to democratize healthcare by offering a unified standard of care and innovative digital solutions to health institutions. Our mission is to ensure that patients receive consistent and high-quality care at any Vivencia Health-linked hospital.
 
 ## What We Offer
 
@@ -16,8 +16,8 @@ At Vitalia Health, we aim to democratize healthcare by offering a unified standa
 
 ### For Patients:
 
-- **Unified Health Experience:** A digital platform to interact with all Vitalia Health hospitals, including appointment booking, medical records access, and telehealth services.
-- **Quality Care Everywhere:** Assurance of standardized care and services at any Vitalia Health-associated hospital.
+- **Unified Health Experience:** A digital platform to interact with all Vivencia Health hospitals, including appointment booking, medical records access, and telehealth services.
+- **Quality Care Everywhere:** Assurance of standardized care and services at any Vivencia Health-associated hospital.
 
 ## Technologies
 
